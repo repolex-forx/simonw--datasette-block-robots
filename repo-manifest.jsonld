@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/simonw/datasette-block-robots/commit/84702338300cadcb892f578c7b4b74f411505708",
       "git:hexsha": "84702338300cadcb892f578c7b4b74f411505708",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.1.1"
     },
     {
