@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "simonw",
+  "repo": "datasette-block-robots",
+  "versions": [
+    {
+      "commit": "84702338300cadcb892f578c7b4b74f411505708",
+      "parsed_at": "2026-10-12T16:30:59.912453+00:00",
+      "tag": "1.1.1",
+      "filetree": "filetree/84702338300cadcb892f578c7b4b74f411505708.nq.gz",
+      "blobs": [
+        "blob/d07256dab453e5590f34199dca2c55f533bc0d33.nq.gz",
+        "blob/ee130bd1322911b99e686fa8e1c7e1a786373b9d.nq.gz",
+        "blob/12f1a40b216b096809057d3cd7c445a4e36859db.nq.gz",
+        "blob/4aa1d308a9b6cd4ed9e0e1a0bf99879a181e25d9.nq.gz",
+        "blob/625f3fca6d7e8efb074b8c7ca849b2981007034c.nq.gz",
+        "blob/e40129626db60dc6df288dcf6d5be6e03a8584d8.nq.gz",
+        "blob/45ec37cb1a45331e6a40260716475a31ada4283e.nq.gz",
+        "blob/8718a96e19fb3275f616244bcfc6b13b2bd261c4.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
